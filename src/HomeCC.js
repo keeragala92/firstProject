@@ -32,7 +32,7 @@ class HomeCC extends React.Component {
           <TouchableOpacity
             style={styles.btn}
             onPress={() => this.onIncrease()}>
-            <Text style={styles.btnTitle}>+ Button</Text>
+            <Text style={styles.btnTitle}>add Button</Text>
           </TouchableOpacity>
 
           <TouchableOpacity
